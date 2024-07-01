@@ -63,7 +63,7 @@ As seen in the graph above, more reservations are canceled when the average dail
 
 Let us see if the cutomers tend to cancel more frequently if there is a longer waiting list
 
-
+![Screenshot 2024-07-01 180714](https://github.com/Muss2000/Hotel_booking/assets/123358021/829f26a6-12f6-4972-9433-d00949f4e9b2)
 
 Longer waiting periods (more than 30 days) have been linked with greater cancellation rates, as shown in the graph. This suggests that customers may be unwilling to wait for extended periods of time and are more likely to cancel their bookings if they have to wait longer than a month.
 Shorter waiting times (less than 30 days) are linked to reduced cancellation rates, implying that customers are more likely to keep their bookings if they do not have to wait as long.
