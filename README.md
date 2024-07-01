@@ -63,7 +63,16 @@ As seen in the graph above, more reservations are canceled when the average dail
 
 Let us see if the cutomers tend to cancel more frequently if there is a longer waiting list
 
-![Screenshot 2024-07-01 180714](https://github.com/Muss2000/Hotel_booking/assets/123358021/829f26a6-12f6-4972-9433-d00949f4e9b2)
+![Screenshot 2024-07-01 184846](https://github.com/Muss2000/Hotel_booking/assets/123358021/cd2b259f-8c9c-4be9-bf5f-b1bbc8a678f4)
 
 Longer waiting periods (more than 30 days) have been linked with greater cancellation rates, as shown in the graph. This suggests that customers may be unwilling to wait for extended periods of time and are more likely to cancel their bookings if they have to wait longer than a month.
 Shorter waiting times (less than 30 days) are linked to reduced cancellation rates, implying that customers are more likely to keep their bookings if they do not have to wait as long.
+
+## Suggestions
+
+1. As cancellation rates increase with higher prices, hotels can focus on refining their pricing strategies. Lowering rates for specific locations and offering discounts can help retain reservations and reduce cancellations.
+2. Since the cancellation rate is higher for resort hotels compared to city hotels, offering reasonable discounts on room prices during weekends or holidays can help attract more bookings and reduce cancellations.
+3. With the highest cancellation rates in January, hotels can launch targeted marketing campaigns or promotions during this month to boost revenue and reduce cancellations.
+4. Improving the quality of hotels and services, particularly in Portugal, can help decrease cancellation rates. Enhancing the customer experience can encourage guests to follow through with their reservations.
+5. Offer special discounts or promotions to customers who are willing to wait longer for their reservations. This can motivate them to stay on the waiting list instead of canceling.
+6. Consider implementing a policy of partial refunds for cancellations, which might deter cancellations while still providing some compensation for customers.
