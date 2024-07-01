@@ -30,6 +30,11 @@ In recent years, City Hotel and Resort Hotel have experienced high rates of canc
 
 ![Screenshot 2024-06-26 112419](https://github.com/Muss2000/Hotel_booking/assets/123358021/27688684-842c-4a14-b6f3-805da15a26e9)
 
+The above bar graph shows the number of reservations that are canceled and not canceled. While it is evident that a significant amount of bookings are not canceled, 37% of reservations that are canceled is still an important number as it is impacting the hotel's earnings.
+
+![Screenshot 2024-06-26 112504](https://github.com/Muss2000/Hotel_booking/assets/123358021/e0ef6c84-2faa-4cd0-ae28-d16d40e47bb9)
+
+City hotels have more reservations than resort hotels. There's a chance that resort hotels cost more than city hotels.
 
 
 
