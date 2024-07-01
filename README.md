@@ -55,3 +55,15 @@ Looking at the pie chart, we can see that Portugal has the highest amount of can
 
 Let's now investigate which reservation method has the largest number of cancellations among visitors.
 
+![Screenshot 2024-07-01 170127](https://github.com/Muss2000/Hotel_booking/assets/123358021/6358da1e-f156-40ae-9597-31937c49c74b)
+
+Among all the customers who cancel their reservations, approximately 46% are clients who book through online travel agencies, and 27% are from group bookings. In contrast, only 4% of cancellations occur when guests book directly by visiting the hotel.
+
+As seen in the graph above, more reservations are canceled when the average daily rates are higher than when they are lower. It strongly supports the hypothesis that a greater price leads to more cancellations.
+
+Let us see if the cutomers tend to cancel more frequently if there is a longer waiting list
+
+
+
+Longer waiting periods (more than 30 days) have been linked with greater cancellation rates, as shown in the graph. This suggests that customers may be unwilling to wait for extended periods of time and are more likely to cancel their bookings if they have to wait longer than a month.
+Shorter waiting times (less than 30 days) are linked to reduced cancellation rates, implying that customers are more likely to keep their bookings if they do not have to wait as long.
