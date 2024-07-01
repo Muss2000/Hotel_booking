@@ -51,3 +51,7 @@ With January having the highest ADR, followed by July and February, this bar gra
 ![Screenshot 2024-07-01 164308](https://github.com/Muss2000/Hotel_booking/assets/123358021/f5cf8663-9c8c-477b-9c2c-89654a3672ae)
 
 Looking at the pie chart, we can see that Portugal has the highest amount of cancellations (70%). 
+
+
+Let's now investigate which reservation method has the largest number of cancellations among visitors.
+
