@@ -44,4 +44,4 @@ The accompanying line graph illustrates how the average daily rate for a city ho
 
 August and July are peak months with high booking stability, particularly in July. Most number of cancelation is observed in January, followed by July and February. Lowest cancelations are in August & September. November and December have the fewest reservations, suggesting a potential off-peak season or lower demand.
 
-
+![Screenshot 2024-06-26 113035](https://github.com/Muss2000/Hotel_booking/assets/123358021/c70682f4-02ba-461d-ab47-853b58eb1074)
