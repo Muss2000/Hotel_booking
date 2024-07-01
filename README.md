@@ -48,6 +48,6 @@ August and July are peak months with high booking stability, particularly in Jul
 
 With January having the highest ADR, followed by July and February, this bar graph illustrates that cancellations occur more frequently during periods of high prices and less frequently during periods of low pricing. In this case, August and September had the lowest ADR.
 
-
+![Screenshot 2024-07-01 164308](https://github.com/Muss2000/Hotel_booking/assets/123358021/f5cf8663-9c8c-477b-9c2c-89654a3672ae)
 
 Looking at the pie chart, we can see that Portugal has the highest amount of cancellations (70%). 
