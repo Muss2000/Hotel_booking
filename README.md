@@ -36,8 +36,12 @@ The above bar graph shows the number of reservations that are canceled and not c
 
 City hotels have more reservations than resort hotels. There's a chance that resort hotels cost more than city hotels.
 
-![Screenshot 2024-06-20 121200](https://github.com/Muss2000/Hotel_booking/assets/123358021/f84fda8f-d5de-4249-a1bf-071f854f9556)
+![Screenshot 2024-07-01 144233](https://github.com/Muss2000/Hotel_booking/assets/123358021/5e45ef60-9e71-4761-8ac6-1f754ae16fe0)
+
+The accompanying line graph illustrates how the average daily rate for a city hotel can be less than that of a resort hotel on some days and much lower on others. Naturally, rates for resort hotels may increase on weekends and holidays.
 
 
+
+August and July are peak months with high booking stability, particularly in July. Most number of cancelation is observed in January, followed by July and February. Lowest cancelations are in August & September. November and December have the fewest reservations, suggesting a potential off-peak season or lower demand.
 
 
