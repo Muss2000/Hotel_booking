@@ -20,6 +20,16 @@ In recent years, City Hotel and Resort Hotel have experienced high rates of canc
 2. How can we reduce the hotel reservation cancellations?
 3. How will hotels be assisted in making pricing and promotional decisions?
 
+## Hypothesis
+
+1. More cancellations occur when prices are higher.
+2. When there is longer waiting list, customers tend to cancel more frequently.
+3. Majority of clients are coming from offline travel agents to make their reservations.
+
+# Analysis and Findings
+
+
+
 
 
 
