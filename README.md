@@ -28,7 +28,7 @@ In recent years, City Hotel and Resort Hotel have experienced high rates of canc
 
 # Analysis and Findings
 
-
+![Screenshot 2024-06-26 112419](https://github.com/Muss2000/Hotel_booking/assets/123358021/27688684-842c-4a14-b6f3-805da15a26e9)
 
 
 
