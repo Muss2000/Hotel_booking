@@ -1,4 +1,4 @@
-# Hotel Booking Cancellation
+# Hotel Booking Cancellation (Report)
 
 ## Problem Statement -
 
