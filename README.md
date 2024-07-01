@@ -36,7 +36,7 @@ The above bar graph shows the number of reservations that are canceled and not c
 
 City hotels have more reservations than resort hotels. There's a chance that resort hotels cost more than city hotels.
 
-
+![Screenshot 2024-06-20 121200](https://github.com/Muss2000/Hotel_booking/assets/123358021/f84fda8f-d5de-4249-a1bf-071f854f9556)
 
 
 
