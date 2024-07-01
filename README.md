@@ -40,8 +40,14 @@ City hotels have more reservations than resort hotels. There's a chance that res
 
 The accompanying line graph illustrates how the average daily rate for a city hotel can be less than that of a resort hotel on some days and much lower on others. Naturally, rates for resort hotels may increase on weekends and holidays.
 
-
+![Screenshot 2024-06-26 112930](https://github.com/Muss2000/Hotel_booking/assets/123358021/7c0fb818-8a33-41a5-aa7e-3850e47bf55d)
 
 August and July are peak months with high booking stability, particularly in July. Most number of cancelation is observed in January, followed by July and February. Lowest cancelations are in August & September. November and December have the fewest reservations, suggesting a potential off-peak season or lower demand.
 
 ![Screenshot 2024-06-26 113035](https://github.com/Muss2000/Hotel_booking/assets/123358021/c70682f4-02ba-461d-ab47-853b58eb1074)
+
+With January having the highest ADR, followed by July and February, this bar graph illustrates that cancellations occur more frequently during periods of high prices and less frequently during periods of low pricing. In this case, August and September had the lowest ADR.
+
+
+
+Looking at the pie chart, we can see that Portugal has the highest amount of cancellations (70%). 
